@@ -10,3 +10,10 @@ Traits:
 2) Open the project in code editor;
 3) Open terminal and run migrations, with 'py manage.py makemigrations' then 'py manage.py migrate'
 4) Run web app locally, using 'py manage.py runserver'
+
+DEMO 1:
+
+https://github.com/brunoreiszz/LuxuryWheels/assets/85147135/1499843a-3ebf-42ef-b288-c2edbf7505dd
+
+DEMO 2:
+
