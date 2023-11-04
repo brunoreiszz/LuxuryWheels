@@ -1,0 +1,25 @@
+.checkoutform label{
+    font-size: 14px !important;
+    font-weight: 600;
+}
+
+.checkoutform input{
+    font-size: 14px !important;
+}
+
+.whatsapp-chat{
+    position: fixed;
+    bottom: 05% !important;
+    left: 03% !important;
+}
+
+.search-bar{
+    width: 40% !important;
+    margin-left: 05%;
+}
+
+body {
+    background: linear-gradient(to left, rgb(255, 235, 158), white, rgb(255, 235, 158));
+    margin: 0;
+    padding: 0;
+}
